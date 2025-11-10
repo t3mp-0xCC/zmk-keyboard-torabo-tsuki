@@ -24,7 +24,7 @@ manifest:
       remote: sekigon-gonnoc
       revision: main
     - name: zmk-pmw3610-driver
-      remote: sekigon-gonnoc
+      remote: t3mp-0xCC
       revision: torabo-tsuki
   self:
     path: config
